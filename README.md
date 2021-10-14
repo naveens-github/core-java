@@ -4,3 +4,6 @@
 ```
 mvn archetype:generate -DgroupId=com.naveen -DartifactId=core-java -Dversion=1.0.0 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 ```
+
+# Collections
+* [ArrayList Practice](src/test/java/com/collections/ArrayListPractice)
