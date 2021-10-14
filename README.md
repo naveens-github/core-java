@@ -6,4 +6,4 @@ mvn archetype:generate -DgroupId=com.naveen -DartifactId=core-java -Dversion=1.0
 ```
 
 # Collections
-* [ArrayList Practice](src/test/java/com/collections/ArrayListPractice)
+* [ArrayList Practice](src/test/java/com/collections/ArrayListPractice.java)
